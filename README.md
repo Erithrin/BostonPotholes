@@ -9,3 +9,12 @@ DataSource : data.boston.gov
 Step 1 : The data is analyzed and cleaned. Duplicates, nulls and inconsistencies will be removed.
 The data will then be stored in a database for analysis.
 
+Some of the questions that I will be answering as part of this project are:
+
+1. Which are the neighborhoods requesting max repairs?
+2. What is the median time to close the cases per neighborhood?
+3. How are the cases reported?
+4. Total open vs closed cases by neighborhood?
+5. Total cases in 2024?
+6. Comparison of number of cases open until May 2025 with cases open until May 2024.
+7. 
